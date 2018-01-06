@@ -3,6 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.30723.0
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Resource", "Resource", "{2A4F5BD0-5D25-4F20-9E20-E8B63EC639C7}"
+	ProjectSection(SolutionItems) = preProject
+		D:\用户目录\Downloads\Expert ASP.NET Web API 2 for MVC Developers.pdf = D:\用户目录\Downloads\Expert ASP.NET Web API 2 for MVC Developers.pdf
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
